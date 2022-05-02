@@ -1,0 +1,17 @@
+C:\Users\JohnA\source\repos\Wordle\Wordle\bin\Release\Wordle.exe.config
+C:\Users\JohnA\source\repos\Wordle\Wordle\bin\Release\Wordle.exe
+C:\Users\JohnA\source\repos\Wordle\Wordle\bin\Release\Wordle.pdb
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\MainWindow.g.cs
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Stats.g.cs
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\App.g.cs
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Wordle_MarkupCompile.cache
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Wordle_MarkupCompile.lref
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\MainWindow.baml
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Stats.baml
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Wordle.g.resources
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Wordle.Properties.Resources.resources
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Wordle.csproj.GenerateResource.cache
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Wordle.exe
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Wordle.pdb
+C:\Users\JohnA\source\repos\Wordle\Wordle\obj\Release\Wordle.csprojAssemblyReference.cache

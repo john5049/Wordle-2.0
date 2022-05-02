@@ -1,0 +1,22 @@
+﻿<Window x:Class="Wordle.Stats"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wordle"
+        mc:Ignorable="d"
+        Title="Stats" Height="150" Width="230">
+    <Grid>
+        <Label x:Name="label" Content="Games Played:" HorizontalAlignment="Left" Margin="24,18,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Win Percentage:" HorizontalAlignment="Left" Margin="24,44,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Best Score:" HorizontalAlignment="Left" Margin="24,70,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.303,0.327"/>
+        <Label Name="GamesPlayedLabel" Content="" HorizontalAlignment="Left" Margin="125,18,0,0" VerticalAlignment="Top"/>
+        <Label Name="WinPercentageLabel" Content="" HorizontalAlignment="Left" Margin="125,43,0,0" VerticalAlignment="Top"/>
+        <Label Name="BestScoreLabel" Content="" HorizontalAlignment="Left" Margin="125,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="of 6" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="133,70,0,0" RenderTransformOrigin="0.5,0.5">
+          
+        </Label>
+        <Label x:Name="label3_Copy" Content="%" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="140,43,0,0" RenderTransformOrigin="0.5,0.5"/>
+
+    </Grid>
+</Window>
